@@ -28,7 +28,7 @@
     "spatie/laravel-fractal": "5.6.*",
     "vinkla/hashids": "^7",
     "dto/dto" : "^3.2",
-    "zmaren/heimdal": "~1.5"
+    "zmaren/heimdal": "*"
   },
   "require-dev": {
 
